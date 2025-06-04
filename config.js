@@ -1,2 +1,4 @@
 console.log('config.js')
 console.log('version')
+consolr.log('version11')
+console.log('akshay')
